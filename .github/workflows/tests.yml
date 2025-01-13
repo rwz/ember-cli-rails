@@ -18,7 +18,9 @@ jobs:
         include:
           - ruby: "3.3"
             rails: "8.0"
-          - ruby: "3.3"
+          - ruby: "3.4"
+            rails: "8.0"
+          - ruby: "3.4"
             rails: "main"
 
     env:
